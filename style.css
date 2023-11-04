@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    background-color: black;
+    height: 100px;
+    text-align: center;
+    
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding: 55px;
+    font-size: 15;
+    
+}
+
+nav {
+    padding-top: 40px;
+    
+    
+}
+
+img{
+
+    height: 400px;
+    width: 1349px;
+    
+    
+}
+
+
+.cetaesquerda{
+    height: 30px;
+    width: 30px;
+    margin-bottom: 175px;
+    
+}
+
+.cetadireita{
+    height: 30px;
+    width: 30px;
+    margin-bottom: 175px;
+    
+    
+}
+
+.imagens{
+    height: 350px;
+    width: 250px;
+    margin: 20px;
+    border-radius: 2px;
+    margin-bottom: 5px;
+    
+}
+
+div{
+    display: inline-block;
+    
+}
+
+.conteiner{
+    text-align: center;
+   
+}
+
+figcaption {
+    font-weight: bold;
+    
+}
+
+footer {
+    height: 140px;
+    background-color: black;
+    margin-top: 40px;
+    
+}
+
+p {
+    color: white;
+    padding-top: 60px;
+    padding-left: 25px;
+}
+
+.imgfooter1 {
+    width: 35px;
+    height: 40px;
+    margin-left: 1100px;
+    
+    
+    
+}
+
+.imgfooter2 {
+    width: 35px;
+    height: 40px;
+    
+}
+
+.imgfooter3 {
+    width: 35px;
+    height: 50px;
+    
+}
