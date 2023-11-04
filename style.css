@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:wght@400;500&display=swap');
 
 *{
     margin: 0;
@@ -81,32 +80,25 @@ footer {
     height: 140px;
     background-color: black;
     margin-top: 40px;
+    display: flex;
+    align-items: center;
+    padding-left: 40px;
     
 }
 
 p {
     color: white;
-    padding-top: 60px;
-    padding-left: 25px;
-}
-
-.imgfooter1 {
-    width: 35px;
-    height: 40px;
-    margin-left: 1100px;
-    
-    
     
 }
 
-.imgfooter2 {
-    width: 35px;
-    height: 40px;
-    
-}
-
-.imgfooter3 {
-    width: 35px;
+.imgfooter {
+    width: 50px;
     height: 50px;
+    margin: 15px;
     
 }
+
+    .conteiner2{
+        margin-left: 130px;
+    }
+
